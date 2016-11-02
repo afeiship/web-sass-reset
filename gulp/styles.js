@@ -20,4 +20,5 @@
       .pipe($.rename({extname: '.min.css'}))
       .pipe(gulp.dest('dist'));
   });
+  
 }());

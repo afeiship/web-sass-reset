@@ -1,0 +1,29 @@
+{
+  "name": "web-sass-reset",
+  "description": "Reset file for pc site.",
+  "main": [
+    "dist/web-sass-reset.sass",
+    "dist/web-sass-reset.css"
+  ],
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/web-sass-reset",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}

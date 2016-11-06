@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /**reset Start**/
 *,
 *:focus {
@@ -18,7 +19,7 @@ html {
 }
 
 body {
-  font: 62.5%/1.5 \5b8b\4f53, Arial, sans-serif;
+  font: 62.5%/1.5 Tahoma, simsun, "宋体", Microsoft YaHei, Arial, "sans-serif";
 }
 
 body, div, dl, dt, dd, ul, ol, li,

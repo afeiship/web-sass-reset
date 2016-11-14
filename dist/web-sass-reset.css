@@ -82,10 +82,6 @@ a {
   text-decoration: none;
 }
 
-a:hover {
-  text-decoration: underline;
-}
-
 img {
   vertical-align: middle;
   max-width: 100%;

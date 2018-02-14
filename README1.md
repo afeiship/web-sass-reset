@@ -1,2 +1,2 @@
-#web-sass-reset
+# web-sass-reset
 > Reset file for pc site.
